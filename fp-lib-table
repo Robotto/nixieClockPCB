@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Nixie_footprint_lib")(type "KiCad")(uri "${KIPRJMOD}/Nixie_footprint_lib.pretty")(options "")(descr ""))
+  (lib (name "mynixies")(type "Legacy")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/mynixies.mod")(options "")(descr ""))
+  (lib (name "nixiemisc")(type "Legacy")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixiemisc.mod")(options "")(descr ""))
+  (lib (name "nixies-us")(type "Legacy")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixies-us.mod")(options "")(descr ""))
+)

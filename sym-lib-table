@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "mynixies")(type "KiCad")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/mynixies.kicad_sym")(options "")(descr ""))
+  (lib (name "miscnixies")(type "KiCad")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixiemisc.kicad_sym")(options "")(descr ""))
+  (lib (name "usnixies")(type "KiCad")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixies-us.kicad_sym")(options "")(descr ""))
+  (lib (name "DCDC")(type "KiCad")(uri "${KIPRJMOD}/lib/1364_HV.kicad_sym")(options "")(descr ""))
+)
