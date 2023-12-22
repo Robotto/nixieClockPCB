@@ -3,4 +3,5 @@
   (lib (name "miscnixies")(type "KiCad")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixiemisc.kicad_sym")(options "")(descr ""))
   (lib (name "usnixies")(type "KiCad")(uri "${KIPRJMOD}/lib/Eagle-and-KiCAD-Nixie-Libs/nixies-us.kicad_sym")(options "")(descr ""))
   (lib (name "DCDC")(type "KiCad")(uri "${KIPRJMOD}/lib/1364_HV.kicad_sym")(options "")(descr ""))
+  (lib (name "nixieclock_project_lib")(type "KiCad")(uri "${KIPRJMOD}/lib/nixieclock_project_lib.kicad_sym")(options "")(descr ""))
 )
